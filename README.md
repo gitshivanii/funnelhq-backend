@@ -65,7 +65,7 @@ IV. Create all the tables
   db.create_all()
 ```
 
-Now you can directly test APIs from postman or from Thaunder Client
+Now you can directly test APIs from postman or from Thunder Client
 
 Thank you!
 
